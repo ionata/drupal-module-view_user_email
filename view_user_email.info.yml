@@ -2,4 +2,5 @@ name: 'View User Email'
 type: module
 description: 'Allow site administrator the ability to grant users of certain roles access to another users email address.'
 core: 8.x
+core_version_requirement: ^8 || ^9
 package: 'User'
