@@ -17,7 +17,7 @@ class LoadTest extends BrowserTestBase {
    *
    * @var array
    */
-  public static $modules = ['view_user_email'];
+  protected static $modules = ['view_user_email'];
 
   /**
    * A user with permission to administer site configuration.
